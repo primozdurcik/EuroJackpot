@@ -1,6 +1,6 @@
 Projekt pri UVP
 
-Program predstavlja siulacijo igre na srečo Eurojackpot.
+Program predstavlja simulacijo igre na srečo Eurojackpot.
 
 Navodila: 
 V datoteko 'vplacilni_listki' vpišite svoje listke na naslednji način:
